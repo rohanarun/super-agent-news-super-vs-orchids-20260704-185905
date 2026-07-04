@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE55U0ZmdkpTUTlLZC10WWhxc2xNdElpalg2dmpwd2VDdVB5TVpweWZRTlVCQ29wdzRMaDI2WlVKOW9hd1Zvd1ZRRzVPekZaeU9objJ1cXQ3R2U3QQ?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[digitaltrends.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOallsZ3pXcjZ3MU1oLVF1M3pxeDFJbVdUWDRjRzJtcEdJWUdYUXozVjBLMmYyNUFiTXh3TWVTMWszSDBMMDUyaWQ0b3ZiSW9VcnRBRmJiR0ZCN3NsQVplNGM4eTBIZjBVak5FVUNUdkgtRE1jbWVQUkRnb1J2ZFlPME84aEFmWF8tby1EZ2dxVFhSSHpWbHV0TFkweXBCSlctY3NyRlFaVXVzc2Iz?oc=5)",
+    "[msn.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_math: max-width 1120px, clamp typography \u2192 2\u20133 lines; AIDA checked; bento_density verified via grid-auto-flow:dense; centered hero + centered actions enforced; button contrast AA; labels sweep complete; GSAP guarded; competitors mentioned: Folk, Orchids, Siri, ChatGPT, Gemini, Grok.",
+  "generated_at": "2026-07-04T18:59:12.265863+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, editorial comparison of Super and Orchids for people evaluating personal AI agents and computer\u2011use assistants. Orchids explores experimental automation and vibe\u2011coding ideas. Super is built for durable, repeated computer\u2011use workflows, with a reusable computer\u2011use cache that compounds value over time. This page places both tools in the wider landscape alongside Folk, Siri, ChatGPT, Gemini, and Grok, grounded in current reporting and market context."
+}
